@@ -1,5 +1,3 @@
-// DESAFIO 1
-
 type Employee = {
     name: string,
     code: number
