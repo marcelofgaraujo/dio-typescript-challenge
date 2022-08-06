@@ -11,4 +11,4 @@
 <li><a href="https://www.themoviedb.org/documentation/api" target="_blank">The Movie Database API Documentation</a></li>
 </ul>
 <h2>License</h2>
-<p>This challenge is under <a href="">MIT License</a>.</p>
+<p>This challenge is under <a href="https://github.com/marcelofgaraujo/dio-typescript-challenge/blob/main/license.md">MIT License</a>.</p>
